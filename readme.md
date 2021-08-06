@@ -1,5 +1,7 @@
 # Noise removal tool for lectures recordings
 
+<img width="604" alt="demo-screenshot" src="demo-screenshot.png">
+
 Noise removal tool is a `Python` GUI program for choosing a video file, file with sample noise and then producing a video file without noise. Uses `Audacity` and `ffmpeg`.
 
 Perfect usage scenario is: once per week you get a new lecture recording with the exact same unbearable amount of noise🙃 Instead of removing this noise every week manually, you set up this program once and in the following weeks you just process new lecture recordings to automatically remove all noise.
